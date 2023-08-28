@@ -1,7 +1,7 @@
 <script>
 
 
-document.write("i am ishfaq")
+document.write("i am ishfaq");
 
 
     
